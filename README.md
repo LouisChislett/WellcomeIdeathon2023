@@ -12,6 +12,6 @@ Sentiment Analysis, Named Entity Recognition and Topic Modelling were used to ge
 We also designed the app to run in parallel to a hypothetical survey on vaccine attitudes among unvaccinated people, such that future attitudes can be predicted from current misinformation.
 
 Credit also goes to:
-Yanan Ma - University of Manchester
-Jose Benitez Aurioles - University of Manchester
-Steven Wambua - University of Birmingham
+* Yanan Ma - University of Manchester
+* Jose Benitez Aurioles - University of Manchester
+* Steven Wambua - University of Birmingham
